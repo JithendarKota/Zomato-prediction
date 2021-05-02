@@ -63,9 +63,9 @@ We will therefore use the real time Data set with variuos features a user would 
  
 7. Feature Engineering:
  
-   a) Handling Missing Values
+       a) Handling Missing Values
 
-   b) Encoding categorical data into numerical data
+       b) Encoding categorical data into numerical data
 
 
 8. Feature Scailing
