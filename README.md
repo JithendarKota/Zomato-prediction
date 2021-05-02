@@ -18,57 +18,72 @@ We will therefore use the real time Data set with variuos features a user would 
 
 # Topics covered:
 
+
 1. Creating a New Environment
+
 
 2. Loading required Libraries
 
+
 3. Loading the Dataset 
+
 
 4.Understanding the Data
 
+
 6.Exploratory data analysis:
 
-Which restaurant has highest outlets in Bangaluru?
-How many of the restuarants do not accept online orders?
-What is the ratio b/w restaurants that provide and do not provide table booking ?
-Rating distribution
-Is there any difference b/w votes of restaurants accepting and not accepting online orders? 
-Which are the most common restaurant type in Banglore?
-Cost factor ?
-Which are the foodie areas?
-Which are the most common cuisines in each locations?
-Extracting location information using Geopy
-Heatmap of restaurant count on each location
-Which are the most popular cuisines of Bangalore?
-Heatmap of North Indian restaurants
-What about South Indian cuisines?
-Analysing Restaurant chains
-Which are the most popular casual dining restaurant chains?
-Where are their outlets located?
-Top quick bites restaurant chains in Banglore
-Where are their outlets located?
-Top Cafes of Banglore?
-Where are their outlets located?
-Wordcloud of dishes liked by cuisines.
-Analysing Reviews
-Wordcloud of restaurant reviews
-Rating distribution
+
+   1.Which restaurant has highest outlets in Bangaluru?
+
+   2.How many of the restuarants do not accept online orders?
+
+   3.Whether the restaurants offer table booking ?
+
+   4.Whether the restaurants deliver online or not?
+
+   5.Rating distribution
+
+   6.Distributions of cost for two people
+
+   7.Which are the most common restaurant type in Banglore?
+
+   8.Cost factor ?
+
+   9.Which are the most common cuisines in each locations?
+
+   10.No. of restaurants in a particular location
+
+   11.Distribution of the cost Vs ratings in parallel with online order
+
+   12.Plotting the counts with the help of pie chart
+
+   13.Different type of Services restaurant offer
+
 
 7. Feature Engineering:
 
-a) Handling Missing Values 
-b) Encoding categorical data into numerical data
+   a) Handling Missing Values
+
+   b) Encoding categorical data into numerical data
+
 
 8. Feature Scailing
 
+
 9. Feature Selection 
+
 
 10. Feature importance 
 
+
 11. Splitting dataset into train & test 
+
 
 12. Applying ML models
 
+
 13. Serialization(saving our model into pickle file)
+
 
 14. Deployment using Flask Framework(we also have other servers like heroku,aws,azure,google cloud)
