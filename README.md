@@ -34,35 +34,35 @@ We will therefore use the real time Data set with variuos features a user would 
 6.Exploratory data analysis:
 
 
-   1.Which restaurant has highest outlets in Bangaluru?
+    1.Which restaurant has highest outlets in Bangaluru?
 
-   2.How many of the restuarants do not accept online orders?
+    2.How many of the restuarants do not accept online orders?
 
-   3.Whether the restaurants offer table booking ?
+    3.Whether the restaurants offer table booking ?
 
-   4.Whether the restaurants deliver online or not?
+    4.Whether the restaurants deliver online or not?
 
-   5.Rating distribution
+    5.Rating distribution
 
-   6.Distributions of cost for two people
+    6.Distributions of cost for two people
 
-   7.Which are the most common restaurant type in Banglore?
+    7.Which are the most common restaurant type in Banglore?
+ 
+    8.Cost factor ?
+ 
+    9.Which are the most common cuisines in each locations?
+ 
+    10.No. of restaurants in a particular location
+ 
+    11.Distribution of the cost Vs ratings in parallel with online order
+ 
+    12.Plotting the counts with the help of pie chart
+ 
+    13.Different type of Services restaurant offer
 
-   8.Cost factor ?
-
-   9.Which are the most common cuisines in each locations?
-
-   10.No. of restaurants in a particular location
-
-   11.Distribution of the cost Vs ratings in parallel with online order
-
-   12.Plotting the counts with the help of pie chart
-
-   13.Different type of Services restaurant offer
-
-
+ 
 7. Feature Engineering:
-
+ 
    a) Handling Missing Values
 
    b) Encoding categorical data into numerical data
