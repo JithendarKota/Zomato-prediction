@@ -35,67 +35,67 @@ We will therefore use the real time Data set with variuos features a user would 
 6.Exploratory data analysis:
 
 
-   1.Which restaurant has highest outlets in Bangaluru?
+   a) Which restaurant has highest outlets in Bangaluru?
    
    ![Capture](https://user-images.githubusercontent.com/66827498/116952938-9c7fbe00-aca9-11eb-8a25-f8bf756cfe24.PNG)
 
 
-   2.How many of the restuarants do not accept online orders?
+   b) How many of the restuarants do not accept online orders?
    
    ![Capture](https://user-images.githubusercontent.com/66827498/116953078-f54f5680-aca9-11eb-9aea-a20c01e39fe0.PNG)
 
 
-   3.Whether the restaurants offer table booking ?
+   c) Whether the restaurants offer table booking ?
    
    ![Capture](https://user-images.githubusercontent.com/66827498/116953129-187a0600-acaa-11eb-8fce-03e6310f0a1a.PNG)
 
 
-   4.Whether the restaurants deliver online or not?
+   d) Whether the restaurants deliver online or not?
 
    ![4](https://user-images.githubusercontent.com/66827498/116953491-0187e380-acab-11eb-9d43-b8f285b6d88b.PNG)
 
 
-   5.Rating distribution
+   e) Rating distribution
    
    ![5](https://user-images.githubusercontent.com/66827498/116953541-2e3bfb00-acab-11eb-8666-bd5febb53bc1.PNG)
 
 
-   6.Distributions of cost for two people
+   f) Distributions of cost for two people
 
    ![6](https://user-images.githubusercontent.com/66827498/116953588-4875d900-acab-11eb-92df-fa4dc8e89488.PNG)
 
 
-   7.Which are the most common restaurant type in Banglore?
+   g) Which are the most common restaurant type in Banglore?
    
    ![7](https://user-images.githubusercontent.com/66827498/116953637-65121100-acab-11eb-82cd-151aee944824.PNG)
 
  
-   8.Cost factor ?
+   h) Cost factor ?
    
    ![8](https://user-images.githubusercontent.com/66827498/116953678-7e1ac200-acab-11eb-899d-abbb1d040bf9.PNG)
 
   
-   9.Which are the most common cuisines in each locations?
+   i) Which are the most common cuisines in each locations?
    
    ![9](https://user-images.githubusercontent.com/66827498/116953743-a60a2580-acab-11eb-89c5-5a73800895e4.PNG)
 
  
-   10. Number of restaurants in a particular location
+   j) Number of restaurants in a particular location
    
    ![10](https://user-images.githubusercontent.com/66827498/116953790-c934d500-acab-11eb-8c37-78c3b168c8a3.PNG)
 
  
-   11.Distribution of the cost Vs ratings in parallel with online order
+   k) Distribution of the cost Vs ratings in parallel with online order
    
    ![11](https://user-images.githubusercontent.com/66827498/116953826-dea9ff00-acab-11eb-8b0c-97cb07ed10f4.PNG)
 
  
-   12.Plotting the counts with the help of pie chart
+   l) Plotting the counts with the help of pie chart
    
    ![12](https://user-images.githubusercontent.com/66827498/116953864-f41f2900-acab-11eb-889a-92e2ccb4c51f.PNG)
 
  
-   13.Different type of Services restaurant offer
+   m) Different type of Services restaurant offer
 
    ![13](https://user-images.githubusercontent.com/66827498/116953896-0bf6ad00-acac-11eb-9a40-bee00e691702.PNG)
 
