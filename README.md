@@ -52,29 +52,59 @@ We will therefore use the real time Data set with variuos features a user would 
 
    4.Whether the restaurants deliver online or not?
 
+   ![4](https://user-images.githubusercontent.com/66827498/116953491-0187e380-acab-11eb-9d43-b8f285b6d88b.PNG)
+
+
    5.Rating distribution
+   
+   ![5](https://user-images.githubusercontent.com/66827498/116953541-2e3bfb00-acab-11eb-8666-bd5febb53bc1.PNG)
+
 
    6.Distributions of cost for two people
 
+   ![6](https://user-images.githubusercontent.com/66827498/116953588-4875d900-acab-11eb-92df-fa4dc8e89488.PNG)
+
+
    7.Which are the most common restaurant type in Banglore?
+   
+   ![7](https://user-images.githubusercontent.com/66827498/116953637-65121100-acab-11eb-82cd-151aee944824.PNG)
+
  
    8.Cost factor ?
- 
+   
+   ![8](https://user-images.githubusercontent.com/66827498/116953678-7e1ac200-acab-11eb-899d-abbb1d040bf9.PNG)
+
+  
    9.Which are the most common cuisines in each locations?
+   
+   ![9](https://user-images.githubusercontent.com/66827498/116953743-a60a2580-acab-11eb-89c5-5a73800895e4.PNG)
+
  
-   10.No. of restaurants in a particular location
+   10. Number of restaurants in a particular location
+   
+   ![10](https://user-images.githubusercontent.com/66827498/116953790-c934d500-acab-11eb-8c37-78c3b168c8a3.PNG)
+
  
    11.Distribution of the cost Vs ratings in parallel with online order
+   
+   ![11](https://user-images.githubusercontent.com/66827498/116953826-dea9ff00-acab-11eb-8b0c-97cb07ed10f4.PNG)
+
  
    12.Plotting the counts with the help of pie chart
+   
+   ![12](https://user-images.githubusercontent.com/66827498/116953864-f41f2900-acab-11eb-889a-92e2ccb4c51f.PNG)
+
  
    13.Different type of Services restaurant offer
+
+   ![13](https://user-images.githubusercontent.com/66827498/116953896-0bf6ad00-acac-11eb-9a40-bee00e691702.PNG)
+
 
  
 7. Feature Engineering:
  
        a) Handling Missing Values
-
+      
        b) Encoding categorical data into numerical data
 
 
@@ -85,6 +115,10 @@ We will therefore use the real time Data set with variuos features a user would 
 
 
 10. Feature importance 
+
+![1](https://user-images.githubusercontent.com/66827498/116953986-51b37580-acac-11eb-84e0-52ddb46198c1.PNG)
+
+![2](https://user-images.githubusercontent.com/66827498/116954013-642daf00-acac-11eb-8bfd-7c625b4f3275.PNG)
 
 
 11. Splitting dataset into train & test 
