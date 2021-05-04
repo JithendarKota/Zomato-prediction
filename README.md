@@ -20,52 +20,55 @@ We will therefore use the real time Data set with variuos features a user would 
 # Topics covered:
 
 
-1. Creating a New Environment
+ 1. Creating a New Environment
+
+  
+ 2. Loading required Libraries
 
 
-2. Loading required Libraries
+ 3. Loading the Dataset 
 
 
-3. Loading the Dataset 
-
-
-4.Understanding the Data
+ 4.Understanding the Data
 
 
 6.Exploratory data analysis:
 
 
    1.Which restaurant has highest outlets in Bangaluru?
-    ![Capture](https://user-images.githubusercontent.com/66827498/116952938-9c7fbe00-aca9-11eb-8a25-f8bf756cfe24.PNG)
+   
+   ![Capture](https://user-images.githubusercontent.com/66827498/116952938-9c7fbe00-aca9-11eb-8a25-f8bf756cfe24.PNG)
 
 
    2.How many of the restuarants do not accept online orders?
-    ![Capture](https://user-images.githubusercontent.com/66827498/116953078-f54f5680-aca9-11eb-9aea-a20c01e39fe0.PNG)
+   
+   ![Capture](https://user-images.githubusercontent.com/66827498/116953078-f54f5680-aca9-11eb-9aea-a20c01e39fe0.PNG)
 
 
    3.Whether the restaurants offer table booking ?
-    ![Capture](https://user-images.githubusercontent.com/66827498/116953129-187a0600-acaa-11eb-8fce-03e6310f0a1a.PNG)
+   
+   ![Capture](https://user-images.githubusercontent.com/66827498/116953129-187a0600-acaa-11eb-8fce-03e6310f0a1a.PNG)
 
 
-    4.Whether the restaurants deliver online or not?
+   4.Whether the restaurants deliver online or not?
 
-    5.Rating distribution
+   5.Rating distribution
 
-    6.Distributions of cost for two people
+   6.Distributions of cost for two people
 
-    7.Which are the most common restaurant type in Banglore?
+   7.Which are the most common restaurant type in Banglore?
  
-    8.Cost factor ?
+   8.Cost factor ?
  
-    9.Which are the most common cuisines in each locations?
+   9.Which are the most common cuisines in each locations?
  
-    10.No. of restaurants in a particular location
+   10.No. of restaurants in a particular location
  
-    11.Distribution of the cost Vs ratings in parallel with online order
+   11.Distribution of the cost Vs ratings in parallel with online order
  
-    12.Plotting the counts with the help of pie chart
+   12.Plotting the counts with the help of pie chart
  
-    13.Different type of Services restaurant offer
+   13.Different type of Services restaurant offer
 
  
 7. Feature Engineering:
