@@ -35,15 +35,15 @@ We will therefore use the real time Data set with variuos features a user would 
 6.Exploratory data analysis:
 
 
-    1.Which restaurant has highest outlets in Bangaluru?
+   1.Which restaurant has highest outlets in Bangaluru?
     ![Capture](https://user-images.githubusercontent.com/66827498/116952938-9c7fbe00-aca9-11eb-8a25-f8bf756cfe24.PNG)
 
 
-    2.How many of the restuarants do not accept online orders?
+   2.How many of the restuarants do not accept online orders?
     ![Capture](https://user-images.githubusercontent.com/66827498/116953078-f54f5680-aca9-11eb-9aea-a20c01e39fe0.PNG)
 
 
-    3.Whether the restaurants offer table booking ?
+   3.Whether the restaurants offer table booking ?
     ![Capture](https://user-images.githubusercontent.com/66827498/116953129-187a0600-acaa-11eb-8fce-03e6310f0a1a.PNG)
 
 
@@ -94,5 +94,6 @@ We will therefore use the real time Data set with variuos features a user would 
 
 
 14. Deployment using Flask Framework(we also have other servers like heroku,aws,azure,google cloud)
+
 ![Web Page(output)](https://user-images.githubusercontent.com/66827498/116952795-2bd8a180-aca9-11eb-8b7d-2ebfa7d3e619.PNG)
 
