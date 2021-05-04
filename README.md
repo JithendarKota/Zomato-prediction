@@ -20,10 +20,10 @@ We will therefore use the real time Data set with variuos features a user would 
 # Topics covered:
 
 
- 1. Creating a New Environment
+1. Creating a New Environment
 
   
- 2. Loading required Libraries
+2. Loading required Libraries
 
 
  3. Loading the Dataset 
