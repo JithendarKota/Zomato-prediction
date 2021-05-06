@@ -26,13 +26,13 @@ We will therefore use the real time Data set with variuos features a user would 
 2. Loading required Libraries
 
 
- 3. Loading the Dataset 
+3. Loading the Dataset 
 
 
- 4.Understanding the Data
+4. Understanding the Data
 
 
-6.Exploratory data analysis:
+5. Exploratory data analysis:
 
 
    a) Which restaurant has highest outlets in Bangaluru?
