@@ -75,12 +75,12 @@ We will therefore use the real time Data set with variuos features a user would 
    ![8](https://user-images.githubusercontent.com/66827498/116953678-7e1ac200-acab-11eb-899d-abbb1d040bf9.PNG)
 
   
-   i) Which are the most common cuisines in each locations?
+   i) Number of restaurants in a particular location
    
    ![9](https://user-images.githubusercontent.com/66827498/116953743-a60a2580-acab-11eb-89c5-5a73800895e4.PNG)
 
  
-   j) Number of restaurants in a particular location
+   j) Which are the most common cuisines in each locations?
    
    ![10](https://user-images.githubusercontent.com/66827498/116953790-c934d500-acab-11eb-8c37-78c3b168c8a3.PNG)
 
@@ -90,7 +90,7 @@ We will therefore use the real time Data set with variuos features a user would 
    ![11](https://user-images.githubusercontent.com/66827498/116953826-dea9ff00-acab-11eb-8b0c-97cb07ed10f4.PNG)
 
  
-   l) Plotting the counts with the help of pie chart
+   l) Plotting the rating with the help of pie chart
    
    ![12](https://user-images.githubusercontent.com/66827498/116953864-f41f2900-acab-11eb-889a-92e2ccb4c51f.PNG)
 
